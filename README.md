@@ -19,4 +19,4 @@
 - Docker 를 이용한 프로젝트 빌드
 
 ### 🖥️ URL
-[Emotion Diary](http://34.64.252.124/login)
+[Slack Clone Coding](http://34.64.252.124/login)
