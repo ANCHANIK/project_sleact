@@ -79,12 +79,12 @@ const config: Configuration = {
   },
   devServer: {
     historyApiFallback: true, // react router
-    port: 3090,
+    port: 8081,
     devMiddleware: { publicPath: '/dist/' },
     static: { directory: path.resolve(__dirname) },
     proxy: {
       '/api/': {
-        target: 'http://localhost:3095',
+        target: 'http://localhost:8082',
         changeOrigin: true,
       },
     },
