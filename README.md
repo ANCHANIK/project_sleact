@@ -18,5 +18,4 @@
 - ScrollTop시 API 호출 기능 구현
 - Docker 를 이용한 프로젝트 빌드
 
-### 🖥️ URL
-[Slack Clone Coding](http://34.64.252.124:8086/login)
+
